@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chaitanaya Kusumakar</h1>
-<h3 align="center">An Aspiring Fintech Developer from the Heart of India</h3>
+<h3 align="center">An Aspiring Software Developer with keen interest in Finacial Technology from the Heart of India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanayak&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanayak" /> </p>
 
@@ -7,9 +7,11 @@
 
 - 🌱 I’m currently learning **Generative AI, React, Deep Learning**
 
+- 👯 I’m looking to collaborate on **Fin-Tech Projects**
+
 - 📫 How to reach me **chaitanayakusumakar7551@gmail.com**
 
-- 📄 Know about my experiences [https://chaitanaya-kusumakar.vercel.app/](https://chaitanaya-kusumakar.vercel.app/)
+- 😊 Know about me [https://chaitanaya-kusumakar.vercel.app/](https://chaitanaya-kusumakar.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
