@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chaitanaya Kusumakar</h1>
-<h3 align="center">An Aspiring Software Developer with keen interest in Finacial Technology from the Heart of India</h3>
+<h3 align="center">An Aspiring Software Developer with keen interest in Financial Technology from the Heart of India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanayak&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanayak" /> </p>
 
